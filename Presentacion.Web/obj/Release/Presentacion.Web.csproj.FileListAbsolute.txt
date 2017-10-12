@@ -1,0 +1,17 @@
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\Presentacion.Web.dll.config
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\Presentacion.Web.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\Presentacion.Web.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\Entidades.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\Negocio.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\ManejoDatos.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\AccesoDatos.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\Entidades.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\Negocio.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\ManejoDatos.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\bin\AccesoDatos.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\obj\Release\Presentacion.Web.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\obj\Release\Presentacion.Web.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\obj\Release\Presentacion.Web.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Presentacion.Web\obj\Release\Presentacion.Web.pdb
