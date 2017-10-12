@@ -1,0 +1,14 @@
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\bin\Release\BDEjemplo.mdf
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\bin\Release\BDEjemplo_log.ldf
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\bin\Release\Negocio.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\bin\Release\Negocio.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\bin\Release\Entidades.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\bin\Release\ManejoDatos.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\bin\Release\AccesoDatos.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\bin\Release\Entidades.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\bin\Release\ManejoDatos.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\bin\Release\AccesoDatos.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\obj\Release\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\obj\Release\Negocio.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Negocio\obj\Release\Negocio.pdb
