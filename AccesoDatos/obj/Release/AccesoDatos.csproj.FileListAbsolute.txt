@@ -1,0 +1,6 @@
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\AccesoDatos\obj\Release\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\AccesoDatos\obj\Release\AccesoDatos.pdb
