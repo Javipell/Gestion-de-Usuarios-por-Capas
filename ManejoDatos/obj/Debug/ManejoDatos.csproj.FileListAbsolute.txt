@@ -1,0 +1,13 @@
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\bin\Debug\BDEjemplo.mdf
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\bin\Debug\BDEjemplo_log.ldf
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\bin\Debug\ManejoDatos.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\bin\Debug\ManejoDatos.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\bin\Debug\Entidades.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\bin\Debug\Entidades.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\obj\Debug\ManejoDatos.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\obj\Debug\ManejoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\obj\Debug\ManejoDatos.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\obj\Debug\ManejoDatos.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\ManejoDatos\bin\Debug\AccesoDatos.dll.config
