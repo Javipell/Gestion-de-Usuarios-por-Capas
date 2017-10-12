@@ -1,0 +1,8 @@
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Entidades\bin\Release\netstandard1.4\Entidades.deps.json
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Entidades\bin\Release\netstandard1.4\Entidades.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Entidades\bin\Release\netstandard1.4\Entidades.pdb
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Entidades\obj\Release\netstandard1.4\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Entidades\obj\Release\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Entidades\obj\Release\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Entidades\obj\Release\netstandard1.4\Entidades.dll
+C:\Users\pepe\source\repos\Gestion Usuarios Capas\Entidades\obj\Release\netstandard1.4\Entidades.pdb
